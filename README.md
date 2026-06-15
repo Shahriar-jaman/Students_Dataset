@@ -1,4 +1,4 @@
-**Here is a clean, professional `README.md` for your AIMHESS project:**
+
 
 ```markdown
 # AIMHESS - AI Mental Health & Educational Support System
@@ -7,7 +7,7 @@
 
 ---
 
-## ✨ Features
+### ✨ Features
 
 - **Dual-Platform Prediction Engine**
   - LightGBM Baseline Models
